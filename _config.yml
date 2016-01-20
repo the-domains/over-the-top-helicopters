@@ -1,0 +1,28 @@
+name: Over The Top Helicopters
+favicon: null
+layout_spectrum: 0.6717495610937476
+typography_spectrum: 0.6672014249488711
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.7602388157974929
+  lightness: 0.02682873304001987
+  saturation: 0.3843188143800944
+  rhythmicContrast: 0.46502988156862557
+purpose: []
